@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\rovel\Downloads\Herman\Productions A1\SDL_Template32\Main.cpp(175,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rovel\Downloads\Herman\Productions A1\SDL_Template32\Main.cpp(178,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  SDL_Template32.vcxproj -> C:\Users\rovel\Downloads\Herman\Productions A1\Debug\SDL_Template32.exe
